@@ -1,1 +1,1 @@
-# Shangghai_Rankings
+# Shanghai_Rankings
